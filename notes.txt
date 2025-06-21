@@ -1,0 +1,23 @@
+how to use grid effectively, in main
+using column span in label widget to get the label or text to span over multiple rows
+similarly rowspan also we can use
+
+using python pyperclip project module for inter web clipboard
+
+using json way to save file, helpful in storing data across web
+using inbuilt json lib
+
+write
+json.dump()
+read
+json.load()
+update
+json.update()
+
+
+
+
+
+
+
+
